@@ -14,6 +14,6 @@ Just a clean, static interface mockup.
 
 ---
 
-## 👀 Preview
+## 📷 Preview
 
 ![Preview](./images/preview.png)
